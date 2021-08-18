@@ -1,6 +1,8 @@
 body{
 
     background-image: url(https://img.freepik.com/foto-gratis/concepto-abstracto-red-comunicacion-tecnologia_34629-641.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #contenedor{
     background-color: rgba(154, 148, 204, 0.61);
